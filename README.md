@@ -1,5 +1,7 @@
 # candle_reader
 
+![candle_reader demo](https://raw.githubusercontent.com/SyedMuhammadRehan/candle_reader/main/media/demo.gif)
+
 An interactive candle reading-light widget for Flutter.
 
 Wrap any widget with `CandleLight` to get a warm, spring-following animated
