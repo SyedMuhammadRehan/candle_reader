@@ -1,8 +1,13 @@
 # candle_reader
 
+[![pub.dev](https://img.shields.io/pub/v/candle_reader.svg?label=pub.dev&color=blue)](https://pub.dev/packages/candle_reader)
+[![pub points](https://img.shields.io/pub/points/candle_reader)](https://pub.dev/packages/candle_reader/score)
+[![pub likes](https://img.shields.io/pub/likes/candle_reader)](https://pub.dev/packages/candle_reader)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 ![candle_reader demo](https://raw.githubusercontent.com/SyedMuhammadRehan/candle_reader/main/media/demo.gif)
 
-An interactive candle reading-light widget for Flutter.
+An interactive candle reading-light widget for Flutter — live on [pub.dev](https://pub.dev/packages/candle_reader).
 
 Wrap any widget with `CandleLight` to get a warm, spring-following animated
 flame that dims everything around it. Pinch to resize the pool of light, pinch
